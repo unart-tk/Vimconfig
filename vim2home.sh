@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# link vimrc, gvimrc and the vim folder to $HOME/
+
 set -e
 set -u 
 
